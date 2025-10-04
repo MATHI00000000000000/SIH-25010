@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:04/10/2025
 ## Register Number:25018155
-## Name:Mathiazhagan
+## Name:Mathiazhagan A
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
